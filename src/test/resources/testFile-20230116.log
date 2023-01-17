@@ -1,0 +1,13 @@
+11:58:54 [main] info 112 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\maria\AppData\Local\JetBrains\IntelliJIdea2022.3\temp-testng-customsuite.xml
+
+12:00:18 [main] info 112 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\maria\AppData\Local\JetBrains\IntelliJIdea2022.3\temp-testng-customsuite.xml
+
+12:02:10 [main] info 112 INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\maria\AppData\Local\JetBrains\IntelliJIdea2022.3\temp-testng-customsuite.xml
+
+12:02:30 [main] loginPositiveTest 14 INFO  tests.TestBase - Starting login test
+12:02:34 [main] getContactWord 39 INFO  pages.PageBase - Language specified: English
+12:02:34 [main] getContactWord 39 INFO  pages.PageBase - Language specified: English
+12:02:34 [main] loginPositiveTest 24 INFO  tests.TestBase - Finished login test
